@@ -47,4 +47,4 @@ with app.app_context():
 
     db.session.add_all(animals)
     db.session.commit()
-
+ 
